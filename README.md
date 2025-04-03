@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning so you can view me as a total newbie.
+- 🔭 I’m currently working on a mini project that i'm totally underqualified for but hey ... gotta start somewhere.
+
 <!--
 **Nexus-MZ/Nexus-MZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
